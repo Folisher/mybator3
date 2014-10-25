@@ -1,4 +1,3 @@
 mybator3
-========
 
-int a = ok;
+    int a = ok;
